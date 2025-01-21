@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\davadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\davadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\avukat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\avukat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\durusma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\durusma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\hakim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\hakim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\davakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\davakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\davakaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davakaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\durusma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\durusma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\hakim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\hakim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\davakaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davakaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\davatakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davatakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\avukat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\avukat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\davatakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\davatakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\muvekkil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\muvekkil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\project_1\\muvekkil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\muvekkil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\odeme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\odeme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|c:\\users\\msknd\\onedrive\\masa\u00FCst\u00FC\\case tracking automation project\\case tracking automation project\\project_1\\project_1\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484600A-61C8-4F85-B876-2416D72E7F25}|Project_1\\Project_1.csproj|solutionrelative:project_1\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DavaKaydi.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaKaydi.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaKaydi.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaKaydi.cs",
+              "RelativeToolTip": "Project_1\\DavaKaydi.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hakim.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Hakim.cs",
+              "RelativeDocumentMoniker": "Project_1\\Hakim.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Hakim.cs",
+              "RelativeToolTip": "Project_1\\Hakim.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:07.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DavaKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaKayit.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaKayit.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\DavaKayit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\DavaKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:07.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DavaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaKayit.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaKayit.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaKayit.cs",
+              "RelativeToolTip": "Project_1\\DavaKayit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Avukat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Avukat.cs",
+              "RelativeDocumentMoniker": "Project_1\\Avukat.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\Avukat.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\Avukat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:07.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DavaDurum.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaDurum.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaDurum.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaDurum.cs [Design]",
+              "RelativeToolTip": "Project_1\\DavaDurum.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:07.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DavaDurum.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaDurum.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaDurum.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaDurum.cs",
+              "RelativeToolTip": "Project_1\\DavaDurum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:07.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DavaKaydi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaKaydi.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaKaydi.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\DavaKaydi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\DavaKaydi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Durusma.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Durusma.cs",
+              "RelativeDocumentMoniker": "Project_1\\Durusma.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Durusma.cs",
+              "RelativeToolTip": "Project_1\\Durusma.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hakim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Hakim.cs",
+              "RelativeDocumentMoniker": "Project_1\\Hakim.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\Hakim.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\Hakim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Durusma.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Durusma.cs",
+              "RelativeDocumentMoniker": "Project_1\\Durusma.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\Durusma.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\Durusma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Odeme.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Odeme.cs",
+              "RelativeDocumentMoniker": "Project_1\\Odeme.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Odeme.cs",
+              "RelativeToolTip": "Project_1\\Odeme.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAUwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DavaTakip.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaTakip.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaTakip.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\DavaTakip.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\DavaTakip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DavaTakip.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaTakip.cs",
+              "RelativeDocumentMoniker": "Project_1\\DavaTakip.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\DavaTakip.cs",
+              "RelativeToolTip": "Project_1\\DavaTakip.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Avukat.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Avukat.cs",
+              "RelativeDocumentMoniker": "Project_1\\Avukat.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Avukat.cs",
+              "RelativeToolTip": "Project_1\\Avukat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Odeme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Odeme.cs",
+              "RelativeDocumentMoniker": "Project_1\\Odeme.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\Odeme.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\Odeme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Muvekkil.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Muvekkil.cs",
+              "RelativeDocumentMoniker": "Project_1\\Muvekkil.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Muvekkil.cs",
+              "RelativeToolTip": "Project_1\\Muvekkil.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAEwMEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KayitOl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\KayitOl.cs",
+              "RelativeDocumentMoniker": "Project_1\\KayitOl.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\KayitOl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\KayitOl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\KayitOl.cs",
+              "RelativeDocumentMoniker": "Project_1\\KayitOl.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\KayitOl.cs",
+              "RelativeToolTip": "Project_1\\KayitOl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Muvekkil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Muvekkil.cs",
+              "RelativeDocumentMoniker": "Project_1\\Muvekkil.cs",
+              "ToolTip": "C:\\Users\\ffff\\source\\repos\\Project_1\\Project_1\\Muvekkil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\ffff\\source\\repos\\Project_1\\Project_1\\Muvekkil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-01-20T17:21:08.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Form1.cs",
+              "RelativeToolTip": "Project_1\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Odeme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Odeme.Designer.cs",
+              "RelativeDocumentMoniker": "Project_1\\Odeme.Designer.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Odeme.Designer.cs",
+              "RelativeToolTip": "Project_1\\Odeme.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Connector.cs",
+              "RelativeDocumentMoniker": "Project_1\\Connector.cs",
+              "ToolTip": "C:\\Users\\msknd\\OneDrive\\Masa\u00FCst\u00FC\\Case Tracking Automation Project\\Case Tracking Automation Project\\Project_1\\Project_1\\Connector.cs",
+              "RelativeToolTip": "Project_1\\Connector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

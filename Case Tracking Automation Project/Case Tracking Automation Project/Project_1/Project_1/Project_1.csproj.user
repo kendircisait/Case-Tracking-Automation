@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Avukat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DavaDurum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DavaKaydi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DavaKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DavaTakip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Durusma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hakim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Muvekkil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Odeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
